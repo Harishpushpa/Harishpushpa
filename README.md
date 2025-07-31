@@ -12,8 +12,8 @@
 
 - 🎯 Full Stack Developer focusing on performance, architecture & clean code  
 - 🔁 Building automation workflows with **N8N**, integrating smart systems  
-- 🌱 Currently learning **DSA**, **AI**, and **Cloud Architecture**  
-- 🛠️ Exploring new dev tools and optimizing backend pipelines  
+- 🌱 Currently learning **DSA**, **AI**, and **System Design**  
+- 🛠️ Exploring new tech
 
 ---
 
