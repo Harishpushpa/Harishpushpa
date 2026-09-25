@@ -104,7 +104,7 @@
 ### 📬 Contact Me
 
 - 📫 **Email:** [winharishbalu@gmail.com](mailto:winharishbalu@gmail.com)  
-- 📄 [**View My Resume**](https://drive.google.com/file/d/1K5Kc-nwRqJ2448aBnaakeRIUMOJhd0El/view?usp=sharing)
+- 📄 [**View My Resume**](https://drive.google.com/file/d/1VVKcdxS_damCZWvtnvcge6uwtSTtT_J2/view?usp=drive_link)
 
 ---
 
