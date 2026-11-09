@@ -1,8 +1,13 @@
 
-<!-- ═════════════════════ HEADER ═════════════════════ -->
+<!-- ═══════════════════════════════════════════════
+     HARISH BALU | GITHUB PROFILE README
+     Theme: Terminal / Emerald Neon
+════════════════════════════════════════════════ -->
+
+<!-- HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00f5a0&height=240&section=header&text=Harish%20Balu&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20AI%20ENGINEER%20%7C%20BACKEND%20DEVELOPER&descSize=16&descAlignY=62" width="100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00f5a0&height=240&section=header&text=Harish%20Balu&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20AI%20ENGINEERING%20%7C%20BACKEND&descSize=17&descAlignY=62" width="100%" alt="Header"/>
 </p>
 
 <p align="center">
@@ -10,12 +15,15 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harishpushpa&label=PROFILE%20VISITORS&color=00f5a0&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=harishpushpa&label=PROFILE%20VISITORS&color=00f5a0&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20BACKEND-00f5a0?style=for-the-badge&labelColor=0f2027" alt="Focus"/>
   <img src="https://img.shields.io/badge/BASE-CHENNAI%2C%20IN-203a43?style=for-the-badge&labelColor=0f2027" alt="Location"/>
 </p>
 
 <p align="center">
+  <a href="https://github.com/harishpushpa">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
   <a href="https://linkedin.com/in/harishb">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
@@ -29,7 +37,7 @@
 
 ---
 
-<!-- ═════════════════════ ABOUT ═════════════════════ -->
+<!-- ABOUT -->
 
 ## `~/about.ts`
 
@@ -60,8 +68,8 @@ const harish = {
 
   currentlyBuilding: [
     "Autonomous API Testing Systems",
-    "AI-powered Document Intelligence",
     "RAG Applications",
+    "Machine Learning Projects",
     "Intelligent Automation Workflows"
   ],
 
@@ -104,7 +112,7 @@ const harish = {
 - Vector Search
 - Embeddings
 - AI Agents
-- Document Intelligence
+- Intelligent Applications
 
 </td>
 </tr>
@@ -116,7 +124,7 @@ const harish = {
 - CNN Architectures
 - Graph Neural Networks
 - Computer Vision
-- YOLO Object Detection
+- Deep Learning
 - Model Evaluation
 
 </td>
@@ -135,6 +143,8 @@ const harish = {
 </table>
 
 ---
+
+<!-- WORKFLOW -->
 
 ## `$ cat workflow.mmd`
 
@@ -159,9 +169,12 @@ flowchart LR
 
 ---
 
+<!-- TECH STACK -->
+
 ## `$ ls ./tech-stack`
 
 <table align="center">
+
 <tr>
 <td align="center" width="150"><b>💻 Languages</b></td>
 <td>
@@ -180,6 +193,7 @@ flowchart LR
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </td>
 </tr>
 
@@ -245,9 +259,12 @@ flowchart LR
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
 </td>
 </tr>
+
 </table>
 
 ---
+
+<!-- PROJECTS -->
 
 ## `$ git log --projects --oneline`
 
@@ -266,53 +283,7 @@ flowchart LR
 
 ---
 
-### 🧠 02. VitaAgent — Insurance Intelligence Platform
-
-> Transforming insurance documents into structured knowledge.
-
-- PDF and DOCX document processing.
-- AI-powered FAQ generation.
-- Insurance policy summarization.
-- Duplicate detection using SHA-256.
-- Background job orchestration.
-- Vector embeddings and retrieval.
-
-**Stack:** Python · FastAPI · Node.js · MongoDB · Ollama · Qwen · BGE-M3
-
----
-
-### 📄 03. Intelligent Document Extraction Service
-
-> Extracting structured information from complex documents.
-
-- OCR using Tesseract and PaddleOCR.
-- Document layout detection.
-- Table and element extraction.
-- PDF and image processing.
-- Structured output generation.
-
-**Stack:** Python · PaddleOCR · Tesseract · PP-DocLayout · pdfplumber
-
----
-
-### 👁️ 04. YOLO Object Detection
-
-> Training and evaluating computer vision models.
-
-- Object detection training.
-- Dataset preparation and validation.
-- Precision and recall evaluation.
-- mAP performance analysis.
-
-**Reported experimental results:**
-- mAP50: 0.995
-- mAP50-95: 0.9679
-
-**Stack:** Python · YOLO · PyTorch · CUDA
-
----
-
-### 🌾 05. Commodity Price Regulator — Hybrid ML
+### 🌾 02. Commodity Price Regulator — Hybrid ML
 
 > Combining CNN and GraphSAGE for agricultural commodity prediction.
 
@@ -327,7 +298,7 @@ flowchart LR
 
 ---
 
-### 🌱 06. Farmer Marketplace Platform
+### 🌱 03. Farmer Marketplace Platform
 
 > Connecting farmers and middlemen through an intelligent agricultural platform.
 
@@ -339,7 +310,7 @@ flowchart LR
 
 ---
 
-### 🎓 07. Student Database Dashboard
+### 🎓 04. Student Database Dashboard
 
 > A real-time academic management and analytics application.
 
@@ -352,7 +323,7 @@ flowchart LR
 
 ---
 
-### 🤖 08. AI Chatbot for Crop Health
+### 🤖 05. AI Chatbot for Crop Health
 
 > AI-driven crop disease identification and farming assistance.
 
@@ -360,7 +331,17 @@ flowchart LR
 
 ---
 
-### 📡 09. GPS-Based Automated Billing System
+### 📰 06. Full-Stack News Application
+
+> A real-time API-integrated news platform with responsive UI.
+
+**Stack:** React · Express · MongoDB
+
+**Recognition:** Second Prize — Code N' Surge Hackathon.
+
+---
+
+### 📡 07. GPS-Based Automated Billing System
 
 > Automated transportation fare calculation and invoicing.
 
@@ -371,6 +352,16 @@ flowchart LR
 **Recognition:** Indian Patent Filed (2025).
 
 ---
+
+### 🧑‍💻 08. Interactive Portfolio
+
+> Animated, mobile-first React portfolio with smooth transitions.
+
+**Recognition:** Web Development Tournament Champion — Panimalar.
+
+---
+
+<!-- EXPERIENCE -->
 
 ## `$ cat experience.log`
 
@@ -383,6 +374,8 @@ flowchart LR
 
 ---
 
+<!-- ACHIEVEMENTS -->
+
 ## `$ cat achievements.log`
 
 ```diff
@@ -394,6 +387,8 @@ flowchart LR
 ```
 
 ---
+
+<!-- CERTIFICATIONS -->
 
 <details>
 <summary><b>🏅 Certifications & Learning</b></summary>
@@ -415,18 +410,22 @@ flowchart LR
 
 ---
 
+<!-- GITHUB STREAK ONLY -->
+
 ## `$ ./stats.sh`
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=harishpushpa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5A0&icon_color=00F5A0&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishpushpa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5A0&text_color=FFFFFF" alt="Top Languages"/>
+  <img width="75%" src="https://streak-stats.demolab.com?user=harishpushpa&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5A0&fire=00F5A0&currStreakLabel=00F5A0" alt="GitHub Contribution Streak"/>
 </p>
 
 <p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=harishpushpa&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5A0&fire=00F5A0&currStreakLabel=00F5A0" alt="GitHub Streak"/>
+  <img src="https://img.shields.io/github/followers/harishpushpa?style=for-the-badge&logo=github&color=00f5a0&labelColor=0f2027" alt="Followers"/>
+  <img src="https://img.shields.io/github/last-commit/harishpushpa/harishpushpa?style=for-the-badge&color=00f5a0&labelColor=0f2027" alt="Last Commit"/>
 </p>
 
 ---
+
+<!-- CONTACT -->
 
 ## `$ ping harish`
 
