@@ -154,8 +154,8 @@ flowchart LR
 ## `$ ./stats.sh`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harishpushpa&show_icons=true&theme=radical&hide_border=true&bg_color=0f2027" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishpushpa&layout=compact&theme=radical&hide_border=true&bg_color=0f2027" alt="langs" />
+  <img src="https://img.shields.io/github/followers/harishpushpa?style=for-the-badge&logo=github&color=00f5a0&labelColor=0f2027" alt="followers" />
+  <img src="https://img.shields.io/github/last-commit/harishpushpa/harishpushpa?style=for-the-badge&color=00f5a0&labelColor=0f2027" alt="last commit" />
 </p>
 
 <p align="center">
